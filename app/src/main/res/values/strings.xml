@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WhereToGoogleApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="fitness_centers">Fitness Centers</string>
+</resources>
